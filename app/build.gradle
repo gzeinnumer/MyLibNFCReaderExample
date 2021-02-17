@@ -37,11 +37,11 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
-    implementation 'com.github.gzeinnumer:MyLibNFCReader:1.0.0'
+    implementation 'com.github.gzeinnumer:NFCReader:0.0.1'
 
     //required
     implementation 'com.google.android.material:material:1.2.1'
-    implementation 'com.github.gzeinnumer:MyLibDialogFragment:1.0.1'
-    implementation 'com.github.gzeinnumer:MyLibDialog:2.2.2'
-    implementation 'com.github.gzeinnumer:MyLibStyle:0.1.5'
+    implementation 'com.github.gzeinnumer:EasyDialogFragment:2.0.0'
+    implementation 'com.github.gzeinnumer:DialogAndroid:3.0.0'
+    implementation 'com.github.gzeinnumer:SimpleMaterialStyle:2.0.0'
 }

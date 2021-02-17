@@ -7,11 +7,11 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.gzeinnumer.mylibnfcreader.helper.EndNFCTagging;
-import com.gzeinnumer.mylibnfcreader.helper.NFCCallBack;
-import com.gzeinnumer.mylibnfcreader.helper.NFCErrorCallBack;
-import com.gzeinnumer.mylibnfcreader.helper.NFCTools;
-import com.gzeinnumer.mylibnfcreader.lib.StartNFCTagging;
+import com.gzeinnumer.nr.helper.EndNFCTagging;
+import com.gzeinnumer.nr.helper.NFCCallBack;
+import com.gzeinnumer.nr.helper.NFCErrorCallBack;
+import com.gzeinnumer.nr.helper.NFCTools;
+import com.gzeinnumer.nr.lib.StartNFCTagging;
 
 public class MainActivity extends AppCompatActivity {
 
